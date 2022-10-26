@@ -1,2 +1,0 @@
-Ez egy kodsor ami egyben példa.
-visual studio peldasor.
